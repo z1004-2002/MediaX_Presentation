@@ -5,10 +5,10 @@ import config from "../../constant/constant.js"
 
 const HeroSection = () => {
   const openDocumentation = () => {
-    //window.open('https://service-de-notication-documentation.vercel.app/', '_blank');
+    window.open('https://media-x-documentation.vercel.app/', '_blank');
   };
   const StartDocumentation = () => {
-    //window.open('https://service-de-notication-documentation.vercel.app/AboutRacine/Getting_Start/quickStart', '_blank');
+    window.open('https://media-x-documentation.vercel.app/AboutRacine/Getting_Start/quickStart', '_blank');
   };
 
   const startWhatAppChat = () => {
