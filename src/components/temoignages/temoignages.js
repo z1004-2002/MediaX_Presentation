@@ -9,15 +9,15 @@ const Temoignages = () => {
       name: "Jean Dupont",
       role: "Développeur Web",
       rating: 4.5,
-      comment: "An exceptionally reliable and easy-to-integrate product management notification service.",
+      comment: "An exceptionally reliable and easy-to-integrate media management service.",
       date: "2024-01-15"
     },
     {
       id: 2,
       name: "Marie Lefebvre",
       role: "Cheffe de Projet",
-      rating: 5,
-      comment: "ProductX has revolutionized our team communication. Highly recommended for product management!",
+      rating: 4,
+      comment: "ProductX has revolutionized our team communication. Highly recommended for media management!",
       date: "2024-02-20"
     }
   ]);

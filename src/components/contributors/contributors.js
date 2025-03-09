@@ -45,7 +45,7 @@ const Contributors = () => {
           Our<span className="title-highlight"> Contributors</span>
         </h1>
         <p className="section-subtitle">
-          Les innovateurs derrière AlertX, unis par la passion de la notification intelligente
+        The innovators behind MediaX, united by a passion for intelligent media management.
         </p>
       </div>
       

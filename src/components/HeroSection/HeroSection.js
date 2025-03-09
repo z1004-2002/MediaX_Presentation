@@ -5,10 +5,10 @@ import config from "../../constant/constant.js"
 
 const HeroSection = () => {
   const openDocumentation = () => {
-    window.open('https://service-de-notication-documentation.vercel.app/', '_blank');
+    //window.open('https://service-de-notication-documentation.vercel.app/', '_blank');
   };
   const StartDocumentation = () => {
-    window.open('https://service-de-notication-documentation.vercel.app/AboutRacine/Getting_Start/quickStart', '_blank');
+    //window.open('https://service-de-notication-documentation.vercel.app/AboutRacine/Getting_Start/quickStart', '_blank');
   };
 
   const startWhatAppChat = () => {
@@ -34,12 +34,12 @@ const HeroSection = () => {
       <div className="hero-content">
         <div className="hero-text">
           <h1 className="title">
-            <span className="title-highlight">Product Management Service</span> 
+            <span className="title-highlight">Media Management Service</span> 
             <br />At Your Fingertips
           </h1>
           <p className="subtitle">
           Instantly connect your teams with our multi-channel product management API.
-          Task management, updates, notifications - A unified solution for all your team communications.
+          Task management, updates, notifications - A unified solution for all your media management.
           </p>
           <div className="hero-cta">
             <button className="btn btn-primary" onClick={StartDocumentation}>

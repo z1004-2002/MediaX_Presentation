@@ -5,26 +5,26 @@ import "./FeatureSection.css";
 const FeaturesSection = () => {const features = [
   { 
     icon: "fas fa-cogs", 
-    title: "Create, Modify, View, and Delete a Resource", 
-    desc: "Easily manage resources by creating, editing, viewing, and deleting them with a user-friendly interface.",
+    title: "Create a media", 
+    desc: "Easily create media assets, including images, videos, audio files, and documents, with our intuitive media creation tools.",
     color: "#f39c12"
   },
   { 
     icon: "fas fa-cogs", 
-    title: "Create, Modify, View, and Delete a Service", 
-    desc: "Effortlessly create, modify, view, and delete services to ensure your offerings are always up to date.",
+    title: "Modify Media", 
+    desc: "Quickly edit media assets, add metadata, and customize settings to ensure your media is always up to date.",
     color: "#1abc9c"
   },
   { 
     icon: "fa-solid fa-sitemap", 
-    title: "Create Service or Resource Variations and Associate with Agencies", 
-    desc: "Create variations of services or resources and easily associate them with specific agencies for better management.",
+    title: "Download Media", 
+    desc: "Download media assets in various formats, resolutions, and sizes to suit your specific needs.",
     color: "#e74c3c"
   },
   { 
     icon: "fas fa-store", 
-    title: "Post Products on the Marketplace", 
-    desc: "Post products to the marketplace, set sales prices, define sales points, and configure delivery options to streamline your sales process.",
+    title: "View Media", 
+    desc: "view data of a media assets directly within the MediaX platform, ensuring seamless media management",
     color: "#3498db"
   }
 ];
@@ -34,7 +34,7 @@ const FeaturesSection = () => {const features = [
         <div className="features-header">
           <h2 className="section-title">Our Features</h2>
           <p className="section-subtitle">
-          A unique solution to manage products efficiently.
+          A unique solution to manage media efficiently.
           </p>
         </div>
         <div className="feature-list">
@@ -45,7 +45,7 @@ const FeaturesSection = () => {const features = [
               </div>
               <h3 className="feature-title">{feature.title}</h3>
               <p className="feature-description">{feature.desc}</p>
-              <a href="https://service-de-notication-documentation.vercel.app/AboutRacine/Whatsapp_Meta/configure" className="feature-link">Découvrir →</a>
+              <a href="#" className="feature-link">Discover →</a>
             </div>
           ))}
         </div>

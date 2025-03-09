@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-grid">
           <div className="footer-brand">
             <h2 className="footer-logo">
-              <span className="logo-main">Product</span>
+              <span className="logo-main">Media</span>
               <span className="logo-accent">X</span>
             </h2>
             <p className="footer-description">
@@ -41,7 +41,7 @@ const Footer = () => {
 
           <div className="footer-newsletter">
             <h4>Stay Connected</h4>
-            <p>Sign up for API updates and product management tips.</p>
+            <p>Sign up for API updates and media management tips.</p>
             <form className="newsletter-form">
               <input 
                 type="email" 

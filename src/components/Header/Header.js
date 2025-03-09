@@ -77,7 +77,7 @@ const Header = () => {
       <div className="header-container">
         <div className="logo-section">
           <h1 className="logo">
-            <span className="logo-main">Product</span>
+            <span className="logo-main">Media</span>
             <span className="logo-accent">X</span>
           </h1>
         </div>

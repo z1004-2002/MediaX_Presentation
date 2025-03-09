@@ -7,27 +7,27 @@ const About = () => {
       title: "Our Mission",
       icon: "fa-bullseye",
       paragraphs: [
-        "ProductX was created with the vision that product management tools should be intuitive, agile, and impactful. Our mission is to reshape the way product teams collaborate and innovate.",
-        "We recognize that every decision, every update, and every iteration is an opportunity to drive meaningful progress. That's why we developed a platform that empowers product teams to streamline workflows, manage roadmaps, and deliver value faster across multiple channels.",
-        "Our goal is to transform product management into a seamless and transparent process, where every move aligns with the bigger picture, and every action contributes to building better products."
-      ]      
+        "MediaX was created with the vision that media management tools should be intuitive, flexible, and powerful. Our mission is to transform how teams handle, store, and share media, driving efficiency and creativity.",
+        "We understand that every media asset, every upload, and every update is an opportunity to enhance your content strategy. That's why we built a platform that empowers teams to organize, access, and manage media seamlessly, improving collaboration and productivity.",
+        "Our goal is to make media management a smooth and transparent process, where every asset is easy to find, and every action aligns with your team's creative vision, enabling the delivery of high-quality media faster and more efficiently."
+      ]  
     },
     {
       title: "Our Technological Vision",
       icon: "fa-eye",
       paragraphs: [
-        "We envision a future where product management is fully integrated, intelligent, and user-centric. ProductX is not just a tool; it's a platform that anticipates and adapts to the dynamic needs of modern product teams.",
-        "Our vision is built on three core pillars: technological innovation, advanced customization, and universal accessibility. We believe technology should simplify, not complicate, the product development process.",
-        "We are committed to continuous investment in research and development to remain at the forefront of innovation in product management tools."
+        "We envision a future where media management is fully integrated, intelligent, and creative-driven. MediaX is not just a service; it's a platform that anticipates and adapts to the evolving needs of modern media teams.",
+        "Our vision is built on three core pillars: cutting-edge technology, seamless integration, and universal accessibility. We believe that media management should empower, not complicate, your creative workflow.",
+        "We are dedicated to continuous investment in research and development, ensuring that MediaX remains at the forefront of innovation in media management solutions."
       ]
     },    
     {
       title: "Our Unique Advantages",
       icon: "fa-rocket",
       paragraphs: [
-        "ProductX stands out for its ability to offer a truly integrated product management solution. Whether it's for managing roadmaps, sprint planning, or team collaboration, we ensure seamless integration and an exceptional user experience.",
-        "Unlike traditional solutions, we offer deep customization. Our intelligent algorithms allow each product process to be tailored to the unique needs and preferences of each team or project.",
-        "With ultra-fast delivery times, cutting-edge security, and unbeatable reliability, ProductX becomes the essential technological partner for any business aiming to maintain high-quality product development."
+        "MediaX stands out for its ability to provide a truly integrated media management solution. Whether it's organizing media assets, streamlining workflows, or enabling team collaboration, we ensure seamless integration and an exceptional user experience.",
+        "Unlike traditional solutions, we offer deep customization. Our intelligent algorithms allow every media process to be tailored to the specific needs and preferences of each team or project.",
+        "With ultra-fast upload and retrieval times, top-tier security, and unbeatable reliability, MediaX becomes the essential technological partner for any business looking to optimize their media management and deliver high-quality content."
       ]
     }
     
@@ -37,10 +37,10 @@ const About = () => {
     <div className="about-section">
       <div className="about-header">
         <h2 className="section-title">
-          About <span className="title-highlight">ProductX</span>
+          About <span className="title-highlight">MediaX</span>
         </h2>
         <p className="section-subtitle">
-          Manage your product very easily, with ProductX
+          Manage your product very easily, with MediaX
         </p>
       </div>
       
